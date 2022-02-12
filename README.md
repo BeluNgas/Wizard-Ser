@@ -1,5 +1,6 @@
 # Wizard-Ser
 
+<p align="center">![IMG_20220130_132644](https://user-images.githubusercontent.com/98247916/153699026-8c986eb6-abfc-4fcf-bdfb-46168a90c4d3.jpg)
 
 <p align="center">
   <a href="https://instagram.com/ajmal_ibn_shanavas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
