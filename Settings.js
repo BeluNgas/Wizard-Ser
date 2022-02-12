@@ -1,5 +1,5 @@
 {
-"BotName":"Nana-Botz",
-"OwnerNumber":"62857890047322",
-"OwnerName":"LexxyOFC",
+"BotName":"Feler Bot",
+"OwnerNumber":"601136151339",
+"OwnerName":"Belu",
 }
